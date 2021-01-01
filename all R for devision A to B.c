@@ -1,8 +1,12 @@
-// Online C compiler to run C program online
 #include <stdio.h>
 
 int main() {
-   int a=100,b=3;
+   	int a;
+   	int b;
+   	printf("Entre a "); scanf("%d",&a);
+    	printf("Entre b "); scanf("%d",&b);
+
+
    
 	
 	while(a != 0){
